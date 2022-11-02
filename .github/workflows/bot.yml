@@ -35,7 +35,7 @@ jobs:
     - name: Commit
       run: |
         git config --global user.name "post_bot"
-        git config --global user.email "sh3d0ww01f@gmail.com"
+        git config --global user.email "ytlivecn@gmail.com"
         git add .
         git commit -m "change!!!"
     - name: Push changes
